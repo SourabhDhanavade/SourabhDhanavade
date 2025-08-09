@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Dhanavade</h1>
-<h4 >An Data Analyst enthusiast with a strong foundation in data analysis and data visualization. My mission is to turn raw data into actionable insights that drive</h4>
+<h4 >An Data Analyst enthusiast with a strong foundation in data analysis and data visualization. My mission is to turn raw data into actionable insights that drive informed business decisions.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhdhanavade&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhdhanavade" /> </p>
 
